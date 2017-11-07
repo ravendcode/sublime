@@ -1,0 +1,2 @@
+#in sublime console
+sublime.log_commands(True)

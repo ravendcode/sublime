@@ -1,0 +1,31 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 3,
+	"margin": 4,
+	"save_on_focus_lost": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Boxy Solarized Light.sublime-theme",
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_font_lg": true,
+	"theme_sidebar_indent_md": true,
+	"theme_sidebar_size_md": true,
+	"theme_statusbar_font_xl": true,
+	"theme_statusbar_size_md": true,
+	"theme_tab_font_lg": true,
+	"theme_tab_selected_label_bold": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_size_md": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
