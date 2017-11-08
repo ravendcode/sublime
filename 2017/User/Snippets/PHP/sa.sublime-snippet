@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @Route("/${1}", name="${2}")
+ */
+public function ${3}Action(${4:Request \$request})
+{
+    ${5}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sa</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>@Route and action</description>
+</snippet>
