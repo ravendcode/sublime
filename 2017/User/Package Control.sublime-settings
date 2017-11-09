@@ -10,6 +10,8 @@
 		"All Autocomplete",
 		"AutoPEP8",
 		"Boxy Theme",
+		"CodeFormatter",
+		"Delete Current File",
 		"DocBlockr",
 		"DotENV",
 		"EditorConfig",
@@ -19,6 +21,7 @@
 		"Gitignore",
 		"Gutter Color",
 		"Jedi - Python autocompletion",
+		"Jinja2",
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
 		"Package Control",
@@ -26,9 +29,7 @@
 		"PHP Completions Kit",
 		"PHP Getters and Setters",
 		"PHP-Twig",
-		"phpfmt",
 		"PlainTasks",
-		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
@@ -37,6 +38,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"SublimeLinter-pyyaml"
+		"SublimeLinter-pyyaml",
+		"TabsExtra"
 	]
 }

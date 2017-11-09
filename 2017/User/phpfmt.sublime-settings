@@ -1,5 +1,5 @@
 {
 	"format_on_save": true,
-	"psr2": true,
+	"psr2": false,
 	"version": 1
 }

@@ -1,9 +1,13 @@
 <snippet>
     <content><![CDATA[
-{% block title %}$1{% endblock %}
+@guest(${1})
+  ${2}
+@endguest
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>jtt</tabTrigger>
+    <tabTrigger>gu</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <scope>text.blade</scope>
+    <description>blade @guest</description>
 </snippet>
+

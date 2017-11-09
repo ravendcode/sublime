@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-{% block 'title' %}$1{% endblock %}
+@stack('${1:scripts}')
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>jt</tabTrigger>
+    <tabTrigger>st</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <scope>text.blade</scope>
+    <description>blade @stack</description>
 </snippet>

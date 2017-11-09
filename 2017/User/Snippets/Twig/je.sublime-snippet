@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-{% extends 'base.html.twig' %}
+{% extends 'layouts/${1:base}.html.twig' %}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>jet</tabTrigger>
+    <tabTrigger>je</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.twig</scope> -->
-    <description>{% extends 'base.html.twig' %}</description>
+    <scope>text.html.twig</scope>
+    <description>twig extends</description>
 </snippet>

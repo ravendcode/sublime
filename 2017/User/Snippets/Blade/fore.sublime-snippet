@@ -1,11 +1,14 @@
 <snippet>
     <content><![CDATA[
-{% block '${1:body}' %}
-  $2
-{% endblock %}
+@forelse (${1})
+  ${2}
+@empty
+  ${3}
+@endforelse
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>jb</tabTrigger>
+    <tabTrigger>fore</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <scope>text.blade</scope>
+    <description>blade @forelse</description>
 </snippet>
