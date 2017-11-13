@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-return${1:;}
+{{ method_field('${1:patch}') }}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>r</tabTrigger>
+    <tabTrigger>mf</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.php</scope>
-    <description>return</description>
+    <scope>text.blade</scope>
+    <description>method_field</description>
 </snippet>

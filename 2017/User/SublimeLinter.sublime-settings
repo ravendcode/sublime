@@ -1,6 +1,6 @@
 {
     "user": {
-        "debug": false,
+        "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
@@ -31,6 +31,13 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "eslint": {
+                "@disable": false,
+                "args": [
+
+                ],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
@@ -49,11 +56,21 @@
                 "args": [],
                 "excludes": []
             },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "json": {
                 "@disable": false,
                 "args": [],
                 "excludes": [],
                 "strict": true
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             },
             "pyyaml": {
                 "@disable": false,

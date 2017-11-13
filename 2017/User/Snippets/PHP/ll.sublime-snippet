@@ -6,5 +6,5 @@ function (${1}) {${2}}
     <tabTrigger>ll</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
-    <description>function lambda</description>
+    <description>inline lambda</description>
 </snippet>
