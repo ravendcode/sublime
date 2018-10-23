@@ -1,0 +1,30 @@
+[
+    {
+        "class": "sidebar_label",
+        "font.size": 13,
+        "font.face": "Fira Code"
+        // "font.face": "Roboto Mono"
+    },
+    {
+        "class": "tab_label",
+        "font.size": 14,
+        "font.face": "Fira Code"
+    },
+    {
+        "class": "quick_panel_path_label",
+        "font.size": 13,
+        "font.face": "Fira Code"
+    },
+    {
+        "class": "tool_tip_label_control",
+        "font.size": 13,
+        "font.face": "Fira Code"
+        // "font.face": "Roboto Mono"
+    },
+    {
+        "class": "label_control",
+        "font.size": 12,
+        "font.face": "Fira Code"
+        // "font.face": "Roboto Mono"
+    }
+]

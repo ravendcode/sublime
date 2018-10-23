@@ -1,0 +1,50 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_face": "Fira Code Medium",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 3,
+	"margin": 4,
+	"material_theme_accent_sky": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_tab": true,
+	"save_on_focus_lost": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"theme": "Boxy Solarized Light.sublime-theme",
+	"theme_bar": true,
+	"theme_bar_logo_atomized": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_sidebar_font_md": true,
+	"theme_sidebar_indent_xl": true,
+	"theme_sidebar_size_xs": true,
+	"theme_statusbar_font_xl": true,
+	"theme_statusbar_size_md": true,
+	"theme_tab_font_xl": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_size_md": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

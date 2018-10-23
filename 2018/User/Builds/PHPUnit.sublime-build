@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "$project_path\\vendor\\bin\\phpunit $file",
+    "selector": "source.php"
+}

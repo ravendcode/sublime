@@ -1,0 +1,7 @@
+{
+    "env": {
+        "PATH": "D:/Go/Code/bin",
+        "GOPATH": "D:/Go/Code"
+    },
+    "fmt_tab_width": 4
+}
