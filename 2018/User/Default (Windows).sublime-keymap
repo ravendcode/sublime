@@ -1,3 +1,4 @@
 [
-    { "keys": ["f4"], "command": "find_use" }
+    { "keys": ["f4"], "command": "find_use" },
+    {"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}
 ]

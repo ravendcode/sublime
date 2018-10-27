@@ -1,2 +1,2 @@
-#in sublime console
+# in sublime console
 sublime.log_commands(True)
