@@ -1,9 +1,13 @@
 <snippet>
     <content><![CDATA[
-factory('App\\${1:User}')->${2:create}();
+@auth(${1})
+  ${2}
+@endauth
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>fa</tabTrigger>
+    <tabTrigger>auth</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.php</scope>
+    <scope>text.blade</scope>
+    <description>blade @auth</description>
 </snippet>
+
