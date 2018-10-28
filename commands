@@ -1,2 +1,6 @@
 # in sublime console
 sublime.log_commands(True)
+# php cs fix
+ctrl+alt+f
+# ident
+alt+shift+f

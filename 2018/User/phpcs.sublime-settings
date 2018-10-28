@@ -1,0 +1,5 @@
+{
+    "phpcs_executable_path": "C:\\Users\\Ravend\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs",
+    "php_cs_fixer_executable_path": "C:\\Users\\Ravend\\AppData\\Roaming\\Composer\\vendor\\bin\\php-cs-fixer",
+    "php_cs_fixer_on_save": true,
+}
