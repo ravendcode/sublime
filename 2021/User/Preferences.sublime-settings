@@ -5,17 +5,17 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"spell_check": false,
-	"font_size": 12,
 	"tab_size": 2,
-	"draw_white_space": "selection",
-	"ensure_newline_at_eof_on_save": true,
-	"fallback_encoding": "Cyrillic (Windows 1251)",
-	"font_face": "Fira Code Medium",
+	"font_face": "Fantasque Sans Mono",
+	"font_size": 14,
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"theme": "Default.sublime-theme",
@@ -30,6 +30,5 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"caret_style": "smooth",
-	"save_on_focus_lost": false
+	"caret_style": "smooth"
 }
