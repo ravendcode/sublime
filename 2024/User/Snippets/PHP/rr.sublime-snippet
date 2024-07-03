@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+require ${1:__DIR__ . }'${2}';
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rr</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>require</description>
+</snippet>

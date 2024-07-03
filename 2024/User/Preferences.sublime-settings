@@ -1,0 +1,35 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"save_on_focus_lost": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"font_face": "Fantasque Sans Mono",
+	"font_size": 12,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
+	],
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"line_padding_top": 4,
+	"margin": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"caret_style": "smooth",
+	"index_files": true,
+}
